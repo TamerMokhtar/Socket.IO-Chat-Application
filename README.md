@@ -98,15 +98,3 @@ Instead of:
 const socket = io("http://localhost:3001");
 ```
 
-## License
-
-This project is licensed under the ISC License - see the package.json file for details.
-
-## Future Improvements
-
-- Add user authentication
-- Store messages in a database
-- Add private messaging functionality
-- Implement different chat rooms
-- Add emoji support
-- Add file sharing capabilities
